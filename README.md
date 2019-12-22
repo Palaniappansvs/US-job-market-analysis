@@ -1,5 +1,5 @@
 Data Science job market in US
 
-A Visual anaysis using Tableau to understand what kind of position is in demand and the prime location that every candidate seeks to move to. Preprocessing is done using Python
+A Visual analysis using Tableau Dashboard to understand what kind of roles are in demand, the most desired comapnies and the prime location in US that every candidate seeks to move to. Preprocessing is done using Python
 
 Data Source: Kaggle
